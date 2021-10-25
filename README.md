@@ -60,26 +60,9 @@
 [portfolio]: https://arsentieva.github.io/profile/
 
 
-
-
-
-
-
-
-<div align="center">
-  <div style="display: flex;">7
-     <img style="vertical-align: top;" ><p>asdasdasd</p</img>
-   <img  ><p>asdasdasd</p></img>
-</div>
-
-
-
 ### Connect with me:
 [<img align="left" alt="TerminalAdam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="yusuf-okur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-<div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/PrXTautlW8Sha" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/iron-man-PrXTautlW8Sha">via GIPHY</a></p>
 
 
 [twitter]: https://twitter.com/TerminalAdam
