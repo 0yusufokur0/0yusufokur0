@@ -18,7 +18,7 @@
 
 ## Hello World, I'm Anna  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" width="500" height="320" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
