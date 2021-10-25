@@ -1,10 +1,10 @@
 ### Hi there, I'm Yusuf Okur👋
 <div align="start">
-<p>
+
  ## I'm Android Developer!!
 - 🏫 I like to learn new technology and the library
 - 💙 I love to Linux based Systems
-</p></div>
+</div>
  
 
 <div align="end">
