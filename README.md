@@ -14,7 +14,7 @@
 
 </div>
 
-<div align="center">
+<div align="start">
   <div style="display: flex;">
 
     ## I'm Android Developer!!
