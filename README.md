@@ -3,32 +3,20 @@
 <div style="display: flex;">
 <div>
 
+
+
+
+###  Hello World, I'm Anna  👋
  ## I'm Android Developer!!
- <br>
-- 🏫 I like to learn new technology and the library
- <br>
-- 💙 I love to Linux based Systems
-</div>
- [<img align="right" alt="holisitc_developer | LinkedIn" width="22px" src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" />]
-<div>
-  <img src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" alt="animated" />
-</div>
-
-</div>
-
-## Hello World, I'm Anna  👋
 
  <img align="right" alt="GIF" src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" width="500" height="320" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+
+- 🏫 I like to learn new technology and the library
+
+- 💙 I love to Linux based Systems
 
 
 ### Talk with me, I am kinda awesome:
