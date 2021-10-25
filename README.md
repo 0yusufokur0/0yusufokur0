@@ -16,11 +16,11 @@
 
 <div align="start">
   <div style="display: flex;">
-
+<p>
     ## I'm Android Developer!!
 - 🏫 I like to learn new technology and the library
 - 💙 I love to Linux based Systems
-   
+   </p>
      <img src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" alt="animated" />
 
    
