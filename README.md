@@ -1,5 +1,5 @@
 ### Hi there, I'm Yusuf Okur👋
-<div>
+<div align="start">
 <p>
  ## I'm Android Developer!!
 - 🏫 I like to learn new technology and the library
@@ -7,10 +7,9 @@
 </p></div>
  
 
-- <p align="end">
+<div align="end">
   <img src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" alt="animated" />
-</p>
-![Alt Text](https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif)
+</div>![Alt Text](https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif)
 
 
 
