@@ -16,6 +16,26 @@
 
 <div align="center">
   <div style="display: flex;">
+
+    ## I'm Android Developer!!
+- 🏫 I like to learn new technology and the library
+- 💙 I love to Linux based Systems
+   
+     <img src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" alt="animated" />
+
+   
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<div align="center">
+  <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
