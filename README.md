@@ -1,28 +1,15 @@
 ### Hi there, I'm Yusuf Okur👋
 
 <div>
-  <div></div>
-  <div></div>
-</div>
-<style type="text/css">
-* {margin: 0; padding: 0;}
-#container {height: 100%; width:100%; font-size: 0;}
-#left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
-#left {width: 25%; background: blue;}
-#middle {width: 50%; background: green;}
-#right {width: 25%; background: yellow;}
-</style>
-<div id="container">
-    <div id="left">Left Side Menu</div>
-    <div id="middle">Random Content</div>
-    <div id="right">Right Side Menu</div>
-</div>
-
-
+  <div>
 ## I'm Android Developer!!
 - 🏫 I like to learn new technology and the library
-- 💙 I love to Linux based Systems
-![Alt Text](https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif)
+- 💙 I love to Linux based Systems</div>
+  <div>![Alt Text](https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif)
+</div>
+</div>
+
+
 
 
 ### Connect with me:
