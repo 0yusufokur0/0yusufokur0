@@ -1,5 +1,17 @@
 ### Hi there, I'm Yusuf Okur👋
+<style>
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+}
 
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+</style>
 <div class="flex-container">
 <div>
 
