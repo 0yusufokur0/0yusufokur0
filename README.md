@@ -9,7 +9,7 @@
  <br>
 - 💙 I love to Linux based Systems
 </div>
- 
+ [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" />]
 <div>
   <img src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" alt="animated" />
 </div>
