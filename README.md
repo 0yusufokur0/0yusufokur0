@@ -6,6 +6,7 @@
 ## I'm Android Developer!!
 - I like to learn new technology and the library
 - I love to Linux based Systems
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 
 ### Connect with me:
 
