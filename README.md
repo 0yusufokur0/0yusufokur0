@@ -33,9 +33,11 @@
 [<img align="left" alt="yusuf-okur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0yusufokur0&show_icons=true&hide_border=true" />
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yusufokur0" />
+
 
 
 [website]: https://holistic-developer.com/
