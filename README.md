@@ -25,26 +25,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
 <br />
-<br />
 
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0yusufokur0&show_icons=true&hide_border=true" />
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yusufokur0" />
 
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0yusufokur0&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yusufokur0" />
-
-</details>
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
