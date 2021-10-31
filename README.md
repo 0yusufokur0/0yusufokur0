@@ -31,8 +31,8 @@
 <br />
 <br />
 
-<img height="150" align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0yusufokur0&show_icons=true&hide_border=true" />
-<img height="120"   align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yusufokur0" />
+<img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0yusufokur0&show_icons=true&hide_border=true" />
+<img   align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yusufokur0" />
 
 
 
