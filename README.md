@@ -2,7 +2,7 @@
 
 
 
- <img align="right" alt="GIF" src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" width="320" height="170" />
+ <img align="right" alt="GIF" src="https://media1.giphy.com/media/PrXTautlW8Sha/giphy.gif?cid=790b76113628353daa5e015efbf7740fda37cf999ef257ae&rid=giphy.gif" width="320" height="213" />
 
 
  ## I'm Android Developer!!
