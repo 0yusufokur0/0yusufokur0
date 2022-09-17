@@ -31,7 +31,7 @@
 <img   align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yusufokur0" />
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=0yusufokur0&theme=holi-theme)](https://git.io/streak-stats)
 
 
 [twitter]: https://twitter.com/TerminalAdam
