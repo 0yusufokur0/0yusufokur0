@@ -4,6 +4,12 @@
 
 ### Hi there, I'm Yusuf Okur👋
 
+<p align="center">
+
+   <a href="https://www.linkedin.com/in/yusuf-okur-3586751b9"><img src="https://readme-typing-svg.demolab.com/?lines=%20I%20am%20Android%20Developer;I%20like%20to%20produce%20new%20solutions;improve%20old%20ones;look%20at%20them%20from%20different%20angles;and%20push%20my%20limits;If%20it%20can%20be%20done%20better;%20why%20not?&font=Fira%20Code&center=fale&width=440&height=45&color=f75c7e&vCenter=false&size=22&pause=700"></a>
+
+</p>
+
  ## I'm Android Developer!!
 - 🙋 I currently learning Android Development with Kotlin
 
