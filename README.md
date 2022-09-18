@@ -33,7 +33,7 @@
 <br />
 <br />
 
-<img width="450" align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0yusufokur0&show_icons=true&hide_border=true" />
+
 <img   align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yusufokur0" />
 
 
@@ -42,5 +42,12 @@
 
 [twitter]: https://twitter.com/TerminalAdam
 [linkedin]: https://www.linkedin.com/in/yusuf-okur-3586751b9/
+
+ <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <img alt="Yusuf Okur's Github Stats"  alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0yusufokur0&show_icons=true&hide_border=true" height="192px" />
+ 
+  <img alt="Yusuf Okur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yusufokur0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/> 
+  <br/>
    
 
