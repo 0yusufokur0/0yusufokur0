@@ -23,18 +23,21 @@
 <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Linux" width="26px" src="https://camo.githubusercontent.com/049ebb34008996716e3203b0ecca0383cbb6e4ea143b51b6eebf647142681077/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6c696e75782e706e67" />
+<img align="left" alt="Linux" width="26px" src="https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" />
+
+<br/>
 <br/>
 
-### Connect with me:
-[<img align="left" alt="TerminalAdam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="yusuf-okur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-<br />
+### Connect with me: 
+[<img align="left" alt="yusuf-okur | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-[twitter]: https://twitter.com/TerminalAdam
 [linkedin]: https://www.linkedin.com/in/yusuf-okur-3586751b9/
+
+<br />
+<br />
+
+
 
  <summary>💻 GitHub Profile Stats</summary>
  <br/>
